@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StartsendAPI WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-10 13:45+0000\n"
+"PO-Revision-Date: 2021-08-11 08:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: startsend-woocommerce"
+
+msgid "\tSend notification on"
+msgstr "Оправить уведомление при"
+
+msgid ""
+"[shop_name] : Thank you for purchasing. Your order ([order_id]) is now "
+"[order_status]."
+msgstr ""
+"[shop_name] : Спасибо за покупку ваш заказ ([order_id]) сейчас в статусе "
+"[order_status]."
+
+msgid ""
+"[shop_name] : You have a new order with order ID [order_id] and order amount "
+"[order_currency] [order_amount]. The order is now [order_status]."
+msgstr ""
+"[shop_name] : У вас новый заказ с номером [order_id] суммой  [order_currency]"
+" [order_amount]. Новый заказ в статусе [order_status]."
+
+msgid "Admin Settings"
+msgstr "Установки для администратора"
+
+msgid "Admin SMS Message"
+msgstr "SMS для администратора"
+
+msgid "API Key"
+msgstr "API ключ (токен)"
+
+msgid "Balance info"
+msgstr "Баланс информация"
+
+msgid "Cancelled SMS Message"
+msgstr "SMS при отмене"
+
+msgid "Choose when to send a status notification message to your admin"
+msgstr ""
+"Выберите, когда отправлять сообщение с уведомлением о статусе своему "
+"администратору"
+
+msgid "Choose when to send a status notification message to your customer"
+msgstr ""
+"Выберите, когда отправлять сообщение с уведомлением о статусе вашему клиенту"
+
+msgid "Completed SMS Message"
+msgstr "Завершение заказа SMS-сообщение"
+
+msgid "Customer Settings"
+msgstr "Установки для пользователя"
+
+msgid "Default Customer SMS Message"
+msgstr "SMS-сообщение клиента по умолчанию"
+
+msgid "Enable"
+msgstr "Включено"
+
+msgid "Enable Suborders SMS Notifications"
+msgstr "Включить SMS-уведомления о подзаказах и подписках "
+
+msgid ""
+"Error, duplicate 1: [shop_name] : Thank you for purchasing. Your order "
+"([order_id]) is now [order_status]."
+msgstr ""
+
+msgid "Error, duplicate 1: Enable Suborders SMS Notifications"
+msgstr ""
+
+msgid ""
+"Error, duplicate 2: Error, duplicate 1: [shop_name] : Thank you for "
+"purchasing. Your order ([order_id]) is now [order_status]."
+msgstr ""
+
+msgid ""
+"Error, duplicate 3: Error, duplicate 2: Error, duplicate 1: [shop_name] : "
+"Thank you for purchasing. Your order ([order_id]) is now [order_status]."
+msgstr ""
+
+msgid ""
+"Error, duplicate 4: Error, duplicate 3: Error, duplicate 2: Error, duplicate "
+"1: [shop_name] : Thank you for purchasing. Your order ([order_id]) is now "
+"[order_status]."
+msgstr ""
+
+msgid ""
+"Error, duplicate 5: Error, duplicate 4: Error, duplicate 3: Error, duplicate "
+"2: Error, duplicate 1: [shop_name] : Thank you for purchasing. Your order "
+"([order_id]) is now [order_status]."
+msgstr ""
+
+msgid ""
+"Error, duplicate 6: Error, duplicate 5: Error, duplicate 4: Error, duplicate "
+"3: Error, duplicate 2: Error, duplicate 1: [shop_name] : Thank you for "
+"purchasing. Your order ([order_id]) is now [order_status]."
+msgstr ""
+
+msgid ""
+"Error, duplicate 7: Error, duplicate 6: Error, duplicate 5: Error, duplicate "
+"4: Error, duplicate 3: Error, duplicate 2: Error, duplicate 1: [shop_name] : "
+"Thank you for purchasing. Your order ([order_id]) is now [order_status]."
+msgstr ""
+
+msgid "Export Log"
+msgstr "Экспортировать лог"
+
+msgid "Failed SMS Message"
+msgstr "Неудавшиеся SMS сообщения "
+
+#. URI of the plugin
+msgid "https://app.startsend.ru/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://startsend.ru"
+msgstr ""
+
+msgid "Message From"
+msgstr "Сообщения от "
+
+msgid "Mobile Number"
+msgstr "Мобильный номер"
+
+msgid ""
+"Mobile number to receive new order SMS notification. To send to multiple "
+"receivers, separate each entry with comma such as 0123456789, 0167888945"
+msgstr ""
+"Мобильный номер для получения SMS-уведомления о новом заказе. Чтобы "
+"отправить несколько получателей, разделите каждую запись запятой, например "
+"0123456789, 0167888945"
+
+msgid "On-hold SMS Message"
+msgstr "SMS-сообщение на удержании"
+
+msgid "Pending SMS Message"
+msgstr "Ожидающее SMS-сообщение"
+
+msgid "Processing SMS Message"
+msgstr "Обработка SMS-сообщения"
+
+msgid "Refunded SMS Message"
+msgstr "SMS-сообщение с возвратом средств"
+
+msgid "Select a country"
+msgstr "Выберите страну"
+
+msgid ""
+"Selected country will be use as default country info for mobile gate "
+"provided."
+msgstr ""
+"Выбранная страна будет использоваться в качестве информации о стране по "
+"умолчанию для предоставленного мобильного шлюза."
+
+msgid "Send notification on"
+msgstr "Отправить уведомление"
+
+msgid "Sender of the SMS when a message is received at a mobile phone"
+msgstr "Отправитель SMS при получении сообщения на мобильный телефон"
+
+msgid "SMS balance: "
+msgstr "SMS баланс:"
+
+msgid "Startsend SMS Settings"
+msgstr "Настройки SMS через Startsend API"
+
+#. Author of the plugin
+msgid "Startsend SMS sending service"
+msgstr "Сервис отправки SMS Startsend"
+
+#. Description of the plugin
+msgid "StartsendAPI Order SMS Notification for WooCommerce"
+msgstr "SMS-уведомление о заказе StartsendAPI для WooCommerce"
+
+#. Name of the plugin
+msgid "StartsendAPI WooCommerce"
+msgstr "StartsendAPI WooCommerce"
+
+msgid ""
+"Your Startsend API account token. Account can be registered at official "
+"sites for <a href=\"https://sms.by\">Belarus</a> or for <a href=\"https:"
+"//startsend.ru\">Russia</a>"
+msgstr ""
+"Токен вашей учетной записи API Startsend. Аккаунт можно зарегистрировать на "
+"официальных сайтах для <a href=\"https://sms.by\"> Беларуси </a> или <a "
+"href=\"https://startsend.ru\"> России </a>."
